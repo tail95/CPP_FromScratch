@@ -9,7 +9,6 @@ Like a river flows, surely to the sea
 Darling so it goes, some things aren't meant to be ;
 */
 
-// 배열 사용
 #include<iostream>
 using namespace std;
 
